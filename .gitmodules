@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "simodels"]
+	path = simodels
+	url = https://github.com/robinlovelace/simodels
+	shallow = true
+	registered = true
